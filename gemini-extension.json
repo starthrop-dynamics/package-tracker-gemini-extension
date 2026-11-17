@@ -1,0 +1,11 @@
+{
+  "name": "package-tracker",
+  "version": "1.0.0",
+  "description": "Package Tracker by Starthrop Dynamics: see your deliveries, check the latest carrier status and add tracking codes from a shipping email, with a preview before anything is added.",
+  "mcpServers": {
+    "package-tracker": {
+      "httpUrl": "https://package-tracker.starthrop.com/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

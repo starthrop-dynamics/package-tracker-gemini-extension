@@ -1,6 +1,6 @@
 # Package Tracker for Gemini CLI
 
-Ask Gemini CLI about your parcels. This extension connects [Package Tracker](https://starthrop.com/en/package-tracker/) by Starthrop Dynamics — more than 600 carriers and national postal services in one tracking engine, in 39 languages, on iPhone, Android, Apple Watch, Apple TV, the web and the Chrome and Edge extensions — to Gemini CLI through its remote MCP server.
+Ask Gemini CLI about your parcels. This extension connects [Package Tracker](https://starthrop.com/en/package-tracker/) by Starthrop Dynamics — more than 1,100 carriers and national postal services in one tracking engine, in 39 languages, on iPhone, Android, Apple Watch, Apple TV, the web and the Chrome and Edge extensions — to Gemini CLI through its remote MCP server.
 
 ## What you can do
 
